@@ -5,7 +5,7 @@ function Footer() {
         <li>
           Created by{" "}
           <a href="https://bryant.io" target="_blank" className="font-bold">
-            Vinod
+            Vinod ....
           </a>
         </li>
 

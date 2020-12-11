@@ -24,6 +24,11 @@ const TECH: ITodoItem[] = [
     status: undefined,
     url: "https://nextjs.org/",
   },
+  {
+    title: "Flutter",
+    status: undefined,
+    url: "https://flutter.dev/",
+  },
 ];
 
 const TODOS: ITodo[] = [
